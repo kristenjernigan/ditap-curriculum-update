@@ -17,7 +17,6 @@ After this module, you will be able to:
 All digital projects should start with the end user. This simple principle is foundational to designing, developing, and delivering digital services. In fact, “Understand what people need” is the first play in the [U.S. Digital Services Playbook](https://playbook.usds.gov/), which you will explore as you progress through this module.
 
 ### Discussion: The good, the bad, and the ugly (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
 
 - What commercial companies or government agencies do you know of that keep user needs at the forefront? How does this show? What steps do you think they took to get to where they are?
 - What commercial companies or government agencies do you know of that didn’t prioritize user needs? What were the consequences?
@@ -233,7 +232,7 @@ This section introduces key frameworks and practices that bring Agile to life, i
 Agile delivery is more than a set of practices. It's a mindset of continuous improvement, open communication, and user-centered design. By adopting these methods, federal acquisition professionals can better support digital transformation initiatives and make informed, Agile-friendly procurement decisions.
 
 ## Discussion (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS. 
+
 
 Think back to a digital service or IT project you were involved in, whether as a contracting officer, program manager, or stakeholder. Based on what you now know about Agile, what might you have done differently to encourage more adaptability, feedback, or user involvement?
 
@@ -398,7 +397,7 @@ The VA undertook a comprehensive redesign of VA.gov to improve the digital exper
 **Playbook integration:** HCD ensures that digital services are **accessible, equitable**, and **responsive to user needs**, which is essential in a public sector committed to serving everyone.
 
 ### Activity: Scenario review (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
+
 
 **Scenario:** A federal agency redesigned its benefits application portal after user research revealed that many applicants found the previous version confusing and inaccessible.
 
@@ -467,7 +466,7 @@ The VA’s journey highlighted a key lesson for acquisition professionals: enabl
 * [DevSecOps is Improving CX at GSA, VA](https://govciomedia.com/devsecops-is-improving-cx-at-gsa-va/)  
 
 ### Discussion (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
+
 
 How can DevSecOps improve the security of government digital services?
 
@@ -526,7 +525,7 @@ These teams play a critical role in:
 * **Supporting delivery** by embedding with program teams to guide implementation or act as product owners
 
 ### Activity – Discussion (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
+
 
 How do these government teams collaborate with external vendors? What role do they play in improving digital service delivery?
 
@@ -551,7 +550,7 @@ These suppliers include:
 An increasing number of firms specialize in digital service delivery and either work regularly with public sector organizations and/or are seeing opportunities to perform work in this area. The [Digital Service Coalition](https://digitalservicescoalition.org/) includes a large number of companies in its membership that provide digital services today. 
 
 ### Activity \- Digital service supplier discovery:
->Note for vendors: this is an optional self-paced learning activity in the LMS.
+
 
 Select two companies from the list of Digital Service Coalition members listed [here](https://digitalservicescoalition.org/story/). Review their websites, and perform a search on [usaspending.gov](http://usaspending.gov) to identify contract awards they have received from the federal government. Consider the following questions: 
 
@@ -562,12 +561,12 @@ Select two companies from the list of Digital Service Coalition members listed [
 * What else would you be interested to learn about each company? 
 
 ### Discussion prompt (optional) 
->Note for vendors: this is an optional self-paced learning activity in the LMS.
+
 
 Think about a real or hypothetical federal digital service need you’ve encountered. Which type of private-sector partner would be most helpful? Why?
 
 ### Discussion prompt (optional)
->Note for vendors: this is an optional self-paced learning activity in the LMS.
+
 
 What types of suppliers have you worked with in the past? What advantages or challenges did you experience?
 
